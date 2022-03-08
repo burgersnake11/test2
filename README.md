@@ -1,7 +1,7 @@
 
-|         | DNS  | Web  | Services internes | Mail
-| :-----: | :-:  | :-:  | :-:               | :-: |
-| Analyse |      |      |                   |     | 
-| Configuration |      |      |                   |     | 
-| Documentation |      |      |                   |     | 
-| Sécurisation |      |      |                   |     | 
+|         | DNS  | Web  | Services internes | Mail | VoIP | Prototype |
+| :-----: | :-:  | :-:  | :-:               | :-: | :-: | :-: |
+| Analyse |      |      |                   |     | ||
+| Configuration |      |      |                   |   ||  | 
+| Documentation |      |      |                   |   ||  | 
+| Sécurisation |      |      |                   |     ||| 
