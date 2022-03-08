@@ -1,4 +1,4 @@
 
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+|  | DNS  | Web  | Services internes | Mail
+| :-----: | :-: | :-: | :-: | :-: |
+| Seconds | 301 | 283 | |||
