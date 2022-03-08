@@ -1,1 +1,1 @@
-# test2
+https://github.com/vvandenschrieck/template-wiki-admin-II.wiki.git
